@@ -1,5 +1,9 @@
-Para rodar o projeto
+Respotas sobre cada dependencia:
+nodemon:Monitora mudanças no codigo e renicia automaticamente atualizando o servidor.
+express:Framework pro node, ele facilita a criação de servidor e api.
+cors:Permite acessar a api com dominios diferentes.
+dotenv:Mantem informaçoes sensiveis fora do codigo, armazenando-as num arquivo .env.
 
-npm install
-
-npm run start-dev
+Para rodar o projeto:
+npm install.
+npm run start-dev.
